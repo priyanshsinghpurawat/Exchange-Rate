@@ -1,2 +1,2 @@
 # pro-1
-this is a project on fsd
+This is a project on exchange rates using front-end applications.
